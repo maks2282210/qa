@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|c:\\users\\\u043A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\tstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\tstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723EFA7-44FA-45C9-91A0-BE1FF53B9EAE}|\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\view\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:44:44.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAiwBoBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:12:06.906Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwDcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:51:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:14:06.969Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:26:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:26:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:45:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:44:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA8wCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:04:24.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:16:21.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TStudent.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TStudent.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TStudent.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TStudent.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\TStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:48:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (5)\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.Designer.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\View\\Form4.Designer.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAEwJcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:55:20.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

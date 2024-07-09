@@ -1,0 +1,85 @@
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\bin\Debug\курсовая работа.exe.config
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\bin\Debug\курсовая работа.exe
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\bin\Debug\курсовая работа.pdb
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая работа.exe
+D:\программирование\курсовая работа\курсовая работа\курсовая работа\obj\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\bin\Debug\курсовая работа.exe.config
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\bin\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\bin\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form4.resources
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\курсовая работа\курсовая работа\obj\Debug\курсовая_работа.View.Form5.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.SuggestedBindingRedirects.cache
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.ResolveComReference.cache
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form4.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form5.resources
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.exe
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.pdb
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.exe.config
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.exe
+C:\Users\максим\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.exe.config
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\bin\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.ResolveComReference.cache
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая_работа.View.Form4.resources
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\Новая папка (2)\курсовая работа\obj\Debug\курсовая работа.pdb
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.exe.config
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.exe
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.pdb
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.SuggestedBindingRedirects.cache
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.ResolveComReference.cache
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form4.resources
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.exe
+C:\Users\максим\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.exe.config
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\bin\Debug\курсовая работа.pdb
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.ResolveComReference.cache
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.Properties.Resources.resources
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.Form1.resources
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form2.resources
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form3.resources
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая_работа.View.Form4.resources
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.GenerateResource.cache
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.exe
+C:\Users\Кристина\Desktop\Новая папка (5)\курсовая работа\obj\Debug\курсовая работа.pdb
